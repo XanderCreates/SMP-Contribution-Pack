@@ -1,3 +1,6 @@
+<style>
+img{background-color:transparent!important}
+</style>
 
 # Complementary SMP Contribution Pack
 
@@ -12,4 +15,8 @@ Provides custom weapons via CIT. (OptiFine or CIT Resewn required)
 
 |   Icon   |  Name     |   Items   |
 | :--------: | :-------: | :-------: |
-| ![P. Crystals](https://raw.githubusercontent.com/Saiko125/SMP-Contribution-Pack/main/assets/minecraft/optifine/cit/elysia/scythe.png) | Pristine Crystals | Iron Sword, Diamond Sword, Netherite Sword, <br> Iron Hoe, Diamond Hoe, Netherite Hoe|
+| ![](https://cdn.discordapp.com/attachments/1019530921587781632/1043387772054011914/pc.png) | Pristine Crystals | Iron Sword, Diamond Sword, Netherite Sword, <br> Iron Hoe, Diamond Hoe, Netherite Hoe
+| ![](https://cdn.discordapp.com/attachments/1019530921587781632/1043387772347621376/scythe.png) | Diamond Scythe | Iron Sword, Diamond Sword, Netherite Sword, <br> Iron Hoe, Diamond Hoe, Netherite Hoe|
+| ![](https://cdn.discordapp.com/attachments/1019530921587781632/1043387772632842330/zireael.png) | Zireael | Iron Sword, Diamond Sword, Netherite Sword|
+| ![](https://cdn.discordapp.com/attachments/1019530921587781632/1043387771697512518/knife.png) | The Holy Stabber | Iron Sword, Diamond Sword, Netherite Sword|
+| ![](https://cdn.discordapp.com/attachments/1019530921587781632/1043387772934815776/excalibur.png) | Excalibur | Iron Sword|
