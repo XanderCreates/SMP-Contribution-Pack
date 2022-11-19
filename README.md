@@ -1,6 +1,3 @@
-<style>
-img{background-color:transparent!important}
-</style>
 
 # Complementary SMP Contribution Pack
 
