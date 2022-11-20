@@ -17,7 +17,7 @@ After downloading, extract the folder to **resourcepacks** folder then load it l
 
 To get a custom weapon, you need to rename the corresponding item with any name provided below.
 
-|   Icon   |  Name     |   Items   |   Lore   |    Enchants    |   Contributor   |
+|   Icon   |  Name     |   Items   |   Lore   |   Contributor   |
 | :--------: | :-------: | :-------: | :-------: | :-------: |
 | ![](https://cdn.discordapp.com/attachments/1026636135495127121/1043948648293208074/netherite_sword_1_.png) | Pristine Crystals | Iron Sword, Diamond Sword, Netherite Sword, <br> Iron Hoe, Diamond Hoe, Netherite Hoe | Its heavenly light crystalline blade allows the wielder to sweep their opponents swiftly. | [@saiko125](https://www.github.com/saiko125) |
 | ![](https://cdn.discordapp.com/attachments/1026636135495127121/1043948648008007800/netherite_sword.png) | Diamond Scythe | Iron Sword, Diamond Sword, Netherite Sword, <br> Iron Hoe, Diamond Hoe, Netherite Hoe| This scythe was made from rarest diamonds found in Overworld, it's origin dimension is unknown to this day. | [@saiko125](https://www.github.com/saiko125) |
